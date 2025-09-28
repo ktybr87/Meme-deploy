@@ -52,5 +52,3 @@ contract Owner {
         return owner;
     }
 } 
-
-
